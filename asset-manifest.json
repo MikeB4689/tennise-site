@@ -1,13 +1,41 @@
 {
   "files": {
     "main.css": "/tennise-site/static/css/main.8a58c7ff.css",
-    "main.js": "/tennise-site/static/js/main.c648a207.js",
+    "main.js": "/tennise-site/static/js/main.4589582d.js",
+    "static/media/prod2_4.webp": "/tennise-site/static/media/prod2_4.4c908ea237301810e398.webp",
+    "static/media/prod5_1.webp": "/tennise-site/static/media/prod5_1.cbd352458411fd794e82.webp",
+    "static/media/prod3_3.webp": "/tennise-site/static/media/prod3_3.3b15147744fc023b39ae.webp",
+    "static/media/prod3_1.webp": "/tennise-site/static/media/prod3_1.5ec26136e6e118530fc0.webp",
+    "static/media/prod10_2.webp": "/tennise-site/static/media/prod10_2.3a6416742aa8c5bd301a.webp",
+    "static/media/prod4_2.webp": "/tennise-site/static/media/prod4_2.8369fda62428a07d3ecf.webp",
+    "static/media/prod5_2.webp": "/tennise-site/static/media/prod5_2.6d7663330ce0c1002e50.webp",
+    "static/media/prod5_3.webp": "/tennise-site/static/media/prod5_3.6d7663330ce0c1002e50.webp",
+    "static/media/prod2_2.webp": "/tennise-site/static/media/prod2_2.653aea51f5938fe161d2.webp",
+    "static/media/prod2_3.webp": "/tennise-site/static/media/prod2_3.653aea51f5938fe161d2.webp",
+    "static/media/prod7_3.webp": "/tennise-site/static/media/prod7_3.6e41ce54ee9761dccce9.webp",
+    "static/media/prod7_1.webp": "/tennise-site/static/media/prod7_1.f7a7e423ba1c8513e068.webp",
+    "static/media/prod7_2.webp": "/tennise-site/static/media/prod7_2.bad45cad363c1c11e77a.webp",
+    "static/media/prod1_2.jpeg": "/tennise-site/static/media/prod1_2.9ee297f1539070462640.jpeg",
+    "static/media/prod10_1.webp": "/tennise-site/static/media/prod10_1.13b3a48eaa69e8603835.webp",
+    "static/media/prod8_1.webp": "/tennise-site/static/media/prod8_1.3be0e235b8f3f9f1ddf9.webp",
+    "static/media/prod8_2.webp": "/tennise-site/static/media/prod8_2.9700863258a0a05d60a2.webp",
+    "static/media/prod2_1.webp": "/tennise-site/static/media/prod2_1.81a2879d2141d5752a42.webp",
+    "static/media/prod6_2.webp": "/tennise-site/static/media/prod6_2.c68f59f8b8bd71d8654c.webp",
+    "static/media/prod6_1.webp": "/tennise-site/static/media/prod6_1.ce8ed6d8ae96f825b87f.webp",
+    "static/media/prod6_3.webp": "/tennise-site/static/media/prod6_3.469288810f4530e0a132.webp",
+    "static/media/prod4_1.webp": "/tennise-site/static/media/prod4_1.0c8f000d1d1d359f9270.webp",
+    "static/media/prod4_3.webp": "/tennise-site/static/media/prod4_3.09413e5e1709c442f789.webp",
+    "static/media/prod1_3.webp": "/tennise-site/static/media/prod1_3.e81a3488d0ba64ab10e7.webp",
+    "static/media/prod3_2.webp": "/tennise-site/static/media/prod3_2.da0d8ecab21573ec5293.webp",
+    "static/media/prod1_1.png": "/tennise-site/static/media/prod1_1.c4bd239b30f251e4a6c3.png",
+    "static/media/prod9_1.webp": "/tennise-site/static/media/prod9_1.775ad33676a913e9352f.webp",
+    "static/media/prod9_2.webp": "/tennise-site/static/media/prod9_2.7c6fa0b16f12257d71c1.webp",
     "index.html": "/tennise-site/index.html",
     "main.8a58c7ff.css.map": "/tennise-site/static/css/main.8a58c7ff.css.map",
-    "main.c648a207.js.map": "/tennise-site/static/js/main.c648a207.js.map"
+    "main.4589582d.js.map": "/tennise-site/static/js/main.4589582d.js.map"
   },
   "entrypoints": [
     "static/css/main.8a58c7ff.css",
-    "static/js/main.c648a207.js"
+    "static/js/main.4589582d.js"
   ]
 }

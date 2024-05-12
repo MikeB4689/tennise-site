@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tennise-site/static/css/main.aacc74d9.css",
-    "main.js": "/tennise-site/static/js/main.b05587e0.js",
+    "main.css": "/tennise-site/static/css/main.6ba5d625.css",
+    "main.js": "/tennise-site/static/js/main.bc5e1b76.js",
     "static/media/prod2_4.webp": "/tennise-site/static/media/prod2_4.4c908ea237301810e398.webp",
     "static/media/prod5_1.webp": "/tennise-site/static/media/prod5_1.cbd352458411fd794e82.webp",
     "static/media/prod3_3.webp": "/tennise-site/static/media/prod3_3.3b15147744fc023b39ae.webp",
@@ -31,11 +31,11 @@
     "static/media/prod9_1.webp": "/tennise-site/static/media/prod9_1.775ad33676a913e9352f.webp",
     "static/media/prod9_2.webp": "/tennise-site/static/media/prod9_2.7c6fa0b16f12257d71c1.webp",
     "index.html": "/tennise-site/index.html",
-    "main.aacc74d9.css.map": "/tennise-site/static/css/main.aacc74d9.css.map",
-    "main.b05587e0.js.map": "/tennise-site/static/js/main.b05587e0.js.map"
+    "main.6ba5d625.css.map": "/tennise-site/static/css/main.6ba5d625.css.map",
+    "main.bc5e1b76.js.map": "/tennise-site/static/js/main.bc5e1b76.js.map"
   },
   "entrypoints": [
-    "static/css/main.aacc74d9.css",
-    "static/js/main.b05587e0.js"
+    "static/css/main.6ba5d625.css",
+    "static/js/main.bc5e1b76.js"
   ]
 }
